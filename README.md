@@ -2,7 +2,6 @@ Olá! Sou o Wesley Gomes, um entusiasta de programação no 4º semestre de Aná
 
 Ao longo do meu curso, adquiri habilidades valiosas que me destacam nesse campo emocionante. Aqui está um resumo das tecnologias que domino:
 
-- 💻 Curso de Psicologia do Consumidor
 - 🔄 Integração de C# com Banco de Dados SQL Server
 - 🖥️ Windows Forms para Interfaces Gráficas
 - ☕ Conceitos Básicos de Java
