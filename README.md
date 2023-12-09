@@ -1,18 +1,16 @@
+Olá! Sou o Wesley Gomes, um entusiasta de programação no 4º semestre de Análise e Desenvolvimento de Sistemas, e estou aqui para compartilhar um pouco sobre minha jornada como desenvolvedor back-end! 🚀💻
 
-### Olá! Sou o Wesley Gomes, um entusiasta de programação no 4º semestre de Análise e Desenvolvimento de Sistemas, e estou aqui para compartilhar um pouco sobre minha jornada como desenvolvedor back-end! 🚀💻
+Ao longo do meu curso, adquiri habilidades valiosas que me destacam nesse campo emocionante. Aqui está um resumo das tecnologias que domino:
 
-### Ao longo do meu curso, adquiri habilidades valiosas que me destacam nesse campo emocionante.  Aqui está um resumo das tecnologias que domino:
-
-### - 💻 Curso de Psicologia do Consumidor
-### - 🔄 Integração de C# com Banco de Dados SQL Server
-### - 🖥️ Windows Forms para Interfaces Gráficas
-### - ☕ Conceitos Básicos de Java
-### - 🌐 Fundamentos de Redes
-### - 🌐 HTML e CSS para Iniciantes
-### - 🚀 JavaScript Fundamentais
-### - 📊 SQL Server para Iniciantes
-### - 🐧 Introdução ao Linux
-### - 🔐 Segurança da Informação Básica
+- 💻 Curso de Psicologia do Consumidor
+- 🔄 Integração de C# com Banco de Dados SQL Server
+- 🖥️ Windows Forms para Interfaces Gráficas
+- ☕ Conceitos Básicos de Java
+- 🌐 Fundamentos de Redes
+- 🌐 HTML, CSS e JavaScript  
+- 📊 SQL Server 
+- 🐧 Introdução ao Linux
+- 🔐 Segurança da Informação 
 
 Essas habilidades me capacitam a desenvolver soluções robustas e eficientes, proporcionando uma experiência excepcional aos usuários. 💡
 
