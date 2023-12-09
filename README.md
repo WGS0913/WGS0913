@@ -15,4 +15,4 @@ Essas habilidades me capacitam a desenvolver soluções robustas e eficientes, p
 
 Minha paixão pela aprendizagem constante me motiva a enfrentar desafios e buscar a excelência em cada projeto. Estou pronto para contribuir de maneira significativa como desenvolvedor back-end, trazendo inovação e eficiência para o mundo da tecnologia. 🌐✨
 
-Se você busca um profissional comprometido, proativo e apaixonado por programação, estou pronto para fazer parte do seu time! 🤝 Vamos construir juntos o futuro da tecnologia! 🚀👨‍💻
+Se você busca um profissional comprometido, proativo e apaixonado por programação, estou pronto para fazer parte do seu time! 🤝 Vamos construir juntos o futuro da tecnologia! 👨‍💻
