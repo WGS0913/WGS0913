@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**WGS0913/WGS0913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Sou o Wesley Gomes, um entusiasta de programação no 4º semestre de Análise e Desenvolvimento de Sistemas, e estou aqui para compartilhar um pouco sobre minha jornada como desenvolvedor back-end! 🚀💻
 
-Here are some ideas to get you started:
+### Ao longo do meu curso, adquiri habilidades valiosas que me destacam nesse campo emocionante.  Aqui está um resumo das tecnologias que domino:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - 💻 Curso de Psicologia do Consumidor
+### - 🔄 Integração de C# com Banco de Dados SQL Server
+### - 🖥️ Windows Forms para Interfaces Gráficas
+### - ☕ Conceitos Básicos de Java
+### - 🌐 Fundamentos de Redes
+### - 🌐 HTML e CSS para Iniciantes
+### - 🚀 JavaScript Fundamentais
+### - 📊 SQL Server para Iniciantes
+### - 🐧 Introdução ao Linux
+### - 🔐 Segurança da Informação Básica
+
+Essas habilidades me capacitam a desenvolver soluções robustas e eficientes, proporcionando uma experiência excepcional aos usuários. 💡
+
+Minha paixão pela aprendizagem constante me motiva a enfrentar desafios e buscar a excelência em cada projeto. Estou pronto para contribuir de maneira significativa como desenvolvedor back-end, trazendo inovação e eficiência para o mundo da tecnologia. 🌐✨
+
+Se você busca um profissional comprometido, proativo e apaixonado por programação, estou pronto para fazer parte do seu time! 🤝 Vamos construir juntos o futuro da tecnologia! 🚀👨‍💻
